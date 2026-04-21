@@ -11,3 +11,9 @@ Además, el cobro se hace por minutos y no por horas, lo que lo hace más precis
 Por último, se agregó una opción para ver estadísticas, donde se muestra cuántos espacios están ocupados y cuántos están libres.
 
 En general, estas mejoras hacen que el programa sea más completo, más fácil de usar y más parecido a un sistema real.
+
+
+REFERENCIAS 
+Para la implementación de colores en la consola del sistema de parqueadero, se utilizó apoyo de inteligencia artificial, específicamente ChatGPT (OpenAI, 2026), como guía para integrar códigos ANSI dentro del lenguaje C++ de acuerdo con la estructura del proyecto.
+
+Se utilizó ChatGPT (OpenAI, 2026) como apoyo para mejorar la organización del código, logrando una estructura más clara y ordenada.
